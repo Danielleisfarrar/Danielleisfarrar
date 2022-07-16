@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how to program 
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on basic beginner projects
-- 📫 You can reach me by personal message  
+- 📫 You can reach me by email @mamaofllamas@gmail.com
 
 <!---
 Danielleisfarrar/Danielleisfarrar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
